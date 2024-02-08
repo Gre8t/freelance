@@ -1,1 +1,1 @@
-From the snipped image, I don't have permissions to create a code pipeline in the prod shared account. Just so you know I have been to create a simple cloudformation s3 template and deployed it directlyu on the dev environment and it worked just fine.
+
